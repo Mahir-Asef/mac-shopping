@@ -1,0 +1,46 @@
+
+/* ================CUSTOM STYLING============== */
+
+body {
+  margin: 0;
+  background-color: white;
+}
+
+/* =======MAC BOOK PRO IMAGE STYLING======= */
+
+.container {
+  margin-top: 40px;
+}
+.mac-book-image {
+  width: 100%;
+  height: auto;
+}
+/* =====MAC BOOK DETAILS STYLING======= */
+
+/* ===============ALL BUTTON STYLING ================ */
+
+.all-button {
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+.all-button:hover {
+  background-color: black;
+  color: white;
+  border: 3px solid gray;
+  border-radius: 10px;
+}
+
+/* ==============BILLING SECTION=============== */
+
+.billing-section {
+  margin-left: -80px;
+}
+
+/* ====BUTTON INPUT STYLING==== */
+
+.input {
+  height: 37px;
+  border: 1px solid rgb(219, 212, 212);
+  border-radius: 5px;
+}
